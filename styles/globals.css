@@ -16,6 +16,7 @@ a {
   text-decoration: none;
 }
 
+
 .main-container{
 max-width: 1400px; 
 margin: auto;
@@ -208,6 +209,11 @@ text-align: end;
  color: #324d67;
 
 }
+
+.title{
+  color: purple;
+}
+
 .products-heading h2{
   font-size: 40px;
   font-weight: 800;
@@ -579,11 +585,32 @@ padding: 6px;
 
 }
 
+.image-float-right {
+  float: right;
+}
+
+.venmo{
+  float: right;
+  margin: auto;
+  margin-top: 30px;
+  /*background-color: #5428bc;*/
+  padding: 50px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  flex-direction: column;
+}
+ .venmo p{
+  padding-left: 70px;
+ }
+
 .schedule {
+  /*float: right;*/
   /*width: 1000px;*/
   margin: auto;
   margin-top: 30px;
-  background-color: #5428bc;
+  background-color: #ffffff;
   padding: 50px;
   border-radius: 15px;
   display: flex;
@@ -596,7 +623,7 @@ padding: 6px;
   /*width: 1000px;*/
   margin: auto;
   margin-top: 0px;
-  background-color: #dcdcdc;
+
   padding: 50px;
   border-radius: 15px;
   display: flex;
@@ -624,7 +651,7 @@ margin-top: 160px;
 }
 
 .schedule p, h3{
-  color:#ffffff;
+  color:#000000;
 }
 
 .schedule h2{
@@ -632,7 +659,6 @@ margin-top: 160px;
   margin-top: 15px 0px;
   font-weight: 400;
   font-size: 30px;
-  color:#ffffff;
 }
 
 .schedule-head h2{
@@ -640,7 +666,7 @@ margin-top: 160px;
   margin-top: 15px 0px;
   font-weight: 400;
   font-size: 65px;
-  color:#ffffff;
+  color: purple;
 }
 
 .success h2{
