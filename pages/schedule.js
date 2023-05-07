@@ -41,7 +41,6 @@ const Schedule = () => {
         <p>8-Week Session: $104</p>
         <p>5-Week Session: $70</p>
         <p>Drop-In: $15</p>
-        <p>Practice: $5</p>
         <br/>
         <br/>
 
