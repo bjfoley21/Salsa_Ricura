@@ -33,11 +33,11 @@ const Schedule = () => {
       <div className="schedule">
       <div>
         <h2 className='title'>Monday</h2>
-        <p>Bachata Partnering with Ricardo 7-8pm</p>
-        <p>Salsa Partnering with Ricardo 8-9pm</p>
-        <p>Practice 9-10pm</p>
+        <p>Salsa Partnering Level 1 with Ricardo 7-8pm</p>
+        <p>Bachata Partnering with Ricardo 8-9pm</p>
+        <p>Salsa Partnering Level 2 with Ricardo 9-10pm</p>
         <br/>
-        <h3 className='title'>Prices</h3>
+        <h3 className='title'>Monday Prices</h3>
         <p>8-Week Session: $104</p>
         <p>5-Week Session: $70</p>
         <p>Drop-In: $15</p>
@@ -50,7 +50,7 @@ const Schedule = () => {
         <p>Salsa on2 Partnerwork with Juan Lopez 8-9pm</p>
         <br/>
         <br/>
-        <h3 className='title'>Prices</h3>
+        <h3 className='title'>Wednesday Prices</h3>
 
         <p>Drop-In: $15</p>
         <p>Both Classes: $20</p>
