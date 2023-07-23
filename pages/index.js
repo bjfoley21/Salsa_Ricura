@@ -42,7 +42,7 @@ import { BsBagCheckFill } from 'react-icons/bs';
 import { useStateContext } from '../context/StateContext';
 import { runFireworks } from '../lib/utils';
 
-print('jkjhhhdarkfsfjhkjkfdsfssfddsdfsddjhdffdsffsfsdjtfshhi');
+print('jkjhhhdarkfsfjhkjkfdsfssfdhjhdsdfsddjhdffdsffsfsdjtfshhi');
 const Schedule = () => {
   const { setCartItems, setTotalPrice, setTotalQuantities } = useStateContext();
   
