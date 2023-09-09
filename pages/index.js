@@ -71,20 +71,20 @@ const Schedule = () => {
         <p>Practice 9-10pm</p>
         <br/>
         <h3 className='title'>Prices</h3>
-        <p>5-Week Session: $75</p>
         <p>Drop-In: $17</p>
+        <p>5-Week Session: $75</p>
         <br/>
         <br/>
 
         <h2 className='title'>Wednesday</h2>
         <p>Salsa on2 Footwork with Juan Lopez 7-8pm</p>
-        <p>Salsa on2 Partnerwork with Juan Lopez 8-9pm</p>
+        <p>Performance practice 8-10pm</p>
         <br/>
         <br/>
         <h3 className='title'>Prices</h3>
 
-        <p>Drop-In: $15</p>
-        <p>Both Classes: $20</p>
+        <p>Drop-In: $17</p>
+        <p>5-Week Session: $75</p>
         <br/>
         <p>jrca1821@gmail.com</p>
         <p>(857)348-8362</p>
