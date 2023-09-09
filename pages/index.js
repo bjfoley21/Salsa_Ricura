@@ -42,7 +42,7 @@ import { BsBagCheckFill } from 'react-icons/bs';
 import { useStateContext } from '../context/StateContext';
 import { runFireworks } from '../lib/utils';
 
-print('jkjhhhdarkfsfjhkjkfdsfsfssfsfdhjhdsdfsddjhdffdsffsfsdjtfshhi');
+print('jkjhhhdarkfsfjhkjkfdsjjfsfssjjfsfdhjhdsdfsddjhdffdsffsfsdjtfshhi');
 const Schedule = () => {
   const { setCartItems, setTotalPrice, setTotalQuantities } = useStateContext();
   
@@ -71,10 +71,8 @@ const Schedule = () => {
         <p>Practice 9-10pm</p>
         <br/>
         <h3 className='title'>Prices</h3>
-        <p>8-Week Session: $104</p>
-        <p>5-Week Session: $70</p>
-        <p>Drop-In: $15</p>
-        <p>Practice: $5</p>
+        <p>5-Week Session: $75</p>
+        <p>Drop-In: $17</p>
         <br/>
         <br/>
 
