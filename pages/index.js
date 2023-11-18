@@ -2,7 +2,7 @@ import React from 'react';
 
 import { client } from '../lib/client';
 import { Product, FooterBanner, HeroBanner } from '../components';
-///////////////////////////////////////////////////////////////  <FooterBanner footerBanner={bannerData && bannerData[0]} />
+////////////////////////////////////////////////////////////////  <FooterBanner footerBanner={bannerData && bannerData[0]} />
 
 
 const Home = ({ products, bannerData }) => (
