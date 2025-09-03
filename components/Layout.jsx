@@ -13,7 +13,7 @@ const Layout = ({ children }) => {
         located at the Dance Complex in Cambridge. We offer partnerwork classes every Monday and footwork classes every Wednesday'/>
       </Head>
       <header>
-        <Navbar />
+        {/*<Navbar />*/}
       </header>
       <main className="main-container">
         {children}
